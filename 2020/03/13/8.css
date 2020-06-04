@@ -1,7 +1,7 @@
 /* 修改透明度 */
 /* 归档友链接的bannaer默认颜色 */
 #nav {
-    background-color: transparent;
+    background-color: transparent !important;
 }
 
 /* 滚动条 没效果就删掉25行 *::-webkit-scrollbar-thumb*/
