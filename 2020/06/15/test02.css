@@ -1,0 +1,76 @@
+.v[data-class=v] .vwrap {
+    padding: 0px 0 27px;
+}
+
+.vheader.item3 {
+   width: 80%;
+    bottom: 0;
+    position: absolute;
+    background: transparent;
+    border-top: 1px solid #f7f7f7;
+}
+input.vnick.vinput,
+input.vmail.vinput,
+input.vlink.vinput {
+    width: 33.33% !important;
+}
+
+.v[data-class=v] .vwrap .vheader .vinput {
+    border-bottom: none !important;
+}
+
+svg.markdown {
+    display: none;
+}
+
+.v .vwrap .vrow {
+    position: absolute;
+    right:0;
+    bottom: 17px;
+    width: 20%;
+    font-size: 0;
+    border-radius: 0;
+    vertical-align: bottom;
+}
+
+.v .vbtn {
+    width:100%;
+    border-radius: 0 !important;
+    height: 43px;
+    line-height: 43px !important;
+    padding: 0 !important;
+    font-size: 14px !important;
+    position: relative;
+    top: 0px;
+}
+.v[data-class=v] .vinput {
+    padding: 10px 15px !important;
+}
+
+.v[data-class=v] .vrow .vcol.vcol-70{
+    width:100% !important;
+}
+
+
+.vwrap>.vrow {
+    height: 43px;
+    margin-bottom: -18px;
+}
+
+.v[data-class=v] .vrow{
+    padding:0;
+}
+
+.v[data-class=v] .vrow .vcol.vcol-40{
+    width:90%
+}
+.v[data-class=v] .vrow .vcol.vcol-30{
+    width:0;
+    height: 0;
+}
+
+.v[data-class=v] .vwrap .vemojis{
+    margin-bottom:20px
+}
+
+.v svg {vertical-align: text-bottom;}
