@@ -81,16 +81,19 @@
 }
 
 body {
-    cursor: url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cursor/normal.cur),
+    cursor: url(https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/left_ptr.png),
         default;
 }
-a,
+a {
+    cursor: url(https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/pointer.png),
+        default;
+}
 img {
-    cursor: url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cursor/ayuda.cur),
+    cursor: url(https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/zoom-in.png),
         default;
 }
 p {
-    cursor: url(https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cursor/texto.cur),
+    cursor: url(https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/text.png),
         default;
 }
 
