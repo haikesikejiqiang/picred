@@ -84,18 +84,24 @@ body {
     cursor: url(https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/left_ptr.png),
         default;
 }
-a {
+a,button {
     cursor: url(https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/pointer.png),
-        default;
+        default !important;
 }
 img {
     cursor: url(https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/zoom-in.png),
-        default;
+        default !important;
 }
 p {
     cursor: url(https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/text.png),
-        default;
+        default !important;
 }
+
+span.post-meta-date,span.page-number.current {
+    cursor: url(https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/left_ptr.png),
+        default !important;
+}
+
 
 
 code {
