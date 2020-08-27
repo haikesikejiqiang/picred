@@ -102,6 +102,18 @@ span.post-meta-date,span.page-number.current {
         default !important;
 }
 
+.social-icon .fab.fa-qq {
+    color: #10a4ff;
+}
+
+.social-icon .fab.fa-weixin {
+    color: #09bb07;
+}
+
+.social-icon .fab.fa-alipay {
+    color: #02a9f1;
+}
+
 
 
 code {
