@@ -325,3 +325,7 @@ div.snote.blue::before {
 .snote:not(.no-icon) {
     padding-left: 20px;
 }
+
+.post-warp .post-content a {
+    color: #161209;
+}
