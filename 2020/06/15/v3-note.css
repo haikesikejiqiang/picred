@@ -345,4 +345,5 @@ blockquote {
     padding: 1em 1em .5em;
     margin: 1em 0;
     position: relative;
+    border-color: transparent;
 }
