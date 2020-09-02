@@ -340,10 +340,10 @@ blockquote:before,blockquote:after {
 blockquote {
     display: block;
     border-width: 1px 0;
+    border-color: transparent;
     border-left: .2em solid #2d96bd;
     color: #6a737d;
     padding: 1em 1em .5em;
     margin: 1em 0;
     position: relative;
-    border-color: transparent;
 }
