@@ -218,3 +218,36 @@ code {
     background: transparent !important;
     font-size: 90%;
 }
+
+
+div#dplayer {
+    height: 500px;
+}
+
+.video {
+    box-shadow: 0 4px 8px 6px rgba(7, 17, 27, 0.06);
+    border-radius: 8px;
+    max-width: 1164px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.video:hover {
+    box-shadow: 0 4px 12px 12px rgba(7, 17, 27, 0.15);
+}
+
+.card {
+    margin: auto;
+    width: 100%;
+    padding-top: 40px;
+}
+
+main#content-inner {
+    padding-top: 15px !important;
+}
+
+@media screen and (min-width: 2000px) {
+    .video {
+        max-width: 1470px;
+    }
+}
