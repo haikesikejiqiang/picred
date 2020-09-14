@@ -1,0 +1,31 @@
+.common-heade,
+body,
+.kystop-bar,
+.kys2newheader-swiper,
+.common-header,
+.kys2newindex-maininfo,
+.kys2newheader-swiper-right,
+.index-friend-link,
+.common-footer,
+.kys2newheader-swiper-box {
+    background: transparent !important;
+}
+
+.common-header {
+    border-bottom: 0;
+}
+
+.Vidage,
+.Vidage__video {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.Vidage {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+}
